@@ -3,6 +3,7 @@ Play system sounds and beep for react-native apps
 
 ## Install
 npm install "react-native-a-beep"
+react-native link
 
 ## Usage
 import RNBeep from 'react-native-a-beep';
