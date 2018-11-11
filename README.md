@@ -16,4 +16,4 @@ Examples:
         
 Happy Beep!
 
-Free to customize and using.
+FREE!
