@@ -11,7 +11,23 @@
 
 ### Manual installation
 
+### Using CocoaPods
+> If the CocoaPods package manager is new to you, please first review
+> its [installation guide](https://guides.cocoapods.org/using/getting-started.html)
+pod 'RNReactNativeABeep', :path => '../node_modules/react-native-a-beep'
+```ruby
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
 
+target '_YOUR_PROJECT_TARGET_' do
+pod 'RNReactNativeABeep', :path => '../node_modules/react-native-a-beep'
+end
+```
+
+```sh
+cd ios
+pod install
+```
 #### iOS
 
 1. In XCode, in the project navigator, right click `Libraries` ➜ `Add Files to [your project's name]`

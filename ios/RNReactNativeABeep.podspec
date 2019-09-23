@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNReactNativeABeep
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://github.com/trietho/react-native-a-beep.git"
   s.license      = "FREE"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "trietho@gmail.com" }
