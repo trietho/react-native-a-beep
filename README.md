@@ -4,7 +4,6 @@ A very lite module to play system sounds and beep for react-native apps (no soun
 ## Install
 ```javascript
 npm install "react-native-a-beep"
-react-native link
 ```
 ## Usage
 
