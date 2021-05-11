@@ -1,10 +1,15 @@
 # react-native-a-beep
 A very lite module to play system sounds and beep for react-native apps (no sound files)
 
+## Sponsor by
+[Go Noter app](https://gonoter.com "Go Noter - Group travel asssistant") - Group travel and expenses assistant!
 ## Install
 ```javascript
 npm install "react-native-a-beep"
 ```
+### (RN < 0.60) Mostly automatic installation
+
+`$ react-native link react-native-a-beep`
 ## Usage
 
 ```javascript
