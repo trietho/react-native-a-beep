@@ -1,5 +1,5 @@
 declare class RNBeep {
-    static beep(success?: boolean): number
+    static beep(success?: boolean): void
 
     static PlaySysSound(soundID: number): void
 
